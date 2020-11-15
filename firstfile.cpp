@@ -2,6 +2,7 @@
 
 int main {
 
-	sdt::cout << "hello world";
+	std::cout << "hello world";
+	std::cout << "second line";
 	return 0;
 }
